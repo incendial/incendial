@@ -5,6 +5,9 @@ I’m a frontend engineer. Passionate about software development, architecture a
 Work at [Wrike](https://www.wrike.com/) as a Senior Frontend Developer / part-time Architect.
 
 ### 🛠 Tech Stack
+
+A few core tools:
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue) ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)
