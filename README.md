@@ -5,14 +5,14 @@ I’m a frontend engineer. Passionate about software development, architecture a
 Work at [Wrike](https://www.wrike.com/) as a Senior Frontend Developer / part-time Architect.
 
 ### 🛠 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)&nbsp; ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue) ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)
 
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp; ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)
 
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp; ![Gitgub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Gitgub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
 ### 📖 My recent articles
 
