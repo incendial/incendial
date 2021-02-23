@@ -21,7 +21,7 @@ Work at [Wrike](https://www.wrike.com/) as a Senior Frontend Developer / part-ti
 ### 👨‍💻 Projects
 
 - Additional [linter for Dart](https://github.com/wrike/dart-code-metrics)
-- Mobile app for plant owner ([Andoroid](https://play.google.com/store/apps/details?id=com.seqapps.lovely) | iOS)
+- Mobile app for plant owners ([Android](https://play.google.com/store/apps/details?id=com.seqapps.lovely) | iOS)
 - Mobile app for checking if a plant is toxic ([Android](https://play.google.com/store/apps/details?id=com.seqapps.toxicplants))
 
 ### 📮 How to reach me
