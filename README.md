@@ -29,5 +29,4 @@ A few core tools:
 
 ### 📮 How to reach me
 
-<a href="https://t.me/incendial"><img src="https://img.shields.io/badge/-%40incendial-blue?style=flat&logo=telegram&logoColor=black"/></a>
 <a href="https://twitter.com/_incendial"><img src="https://img.shields.io/badge/-%40__incendial-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
