@@ -19,12 +19,12 @@ A few core tools:
 
 ### 📖 My recent articles
 
-* Writing a custom plugin for the Dart analyzer ([ru](https://habr.com/ru/company/wrike/blog/541672/) | en)
+* Writing a custom plugin for the Dart analyzer ([ru](https://habr.com/ru/company/wrike/blog/541672/) | [en](https://medium.com/wriketechclub/creating-a-custom-plugin-for-dart-analyzer-48b76d81a239))
 
 ### 👨‍💻 Projects
 
 - Additional [linter for Dart](https://github.com/wrike/dart-code-metrics)
-- Mobile app for plant owners ([Android](https://play.google.com/store/apps/details?id=com.seqapps.lovely) | iOS)
+- Mobile app for plant owners ([Android](https://play.google.com/store/apps/details?id=com.seqapps.lovely) | [iOS](https://apps.apple.com/app/id1545748152))
 - Mobile app for checking if a plant is toxic ([Android](https://play.google.com/store/apps/details?id=com.seqapps.toxicplants))
 
 ### 📮 How to reach me
