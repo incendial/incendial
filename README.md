@@ -15,7 +15,7 @@ A few core tools:
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)
 
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Gitgub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
 ### 📖 My recent articles
 
