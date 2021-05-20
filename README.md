@@ -2,7 +2,7 @@
 
 I’m a frontend engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart) and Flutter. Plants lover 🌿
 
-Work at [Wrike](https://www.wrike.com/) as a Senior Frontend Developer / part-time Architect.
+Former Senior Frontend Developer / part-time Architect at [Wrike](https://www.wrike.com/).
 
 ### 🛠 Tech Stack
 
