@@ -1,6 +1,6 @@
 ##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello there, I’m Dmitry
 
-I’m a frontend engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart) and Flutter. Plants lover 🌿
+I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart) and Flutter.
 
 Former Senior Frontend Developer / part-time Architect at [Wrike](https://www.wrike.com/).
 
