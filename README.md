@@ -19,6 +19,7 @@ A few core tools:
 
 ### 📖 My recent articles
 
+* Dart Code Metrics 4.0 ([ru](https://habr.com/ru/company/wrike/blog/573140/))
 * Finding Unused Files With Dart Code Metrics ([en](https://medium.com/wriketechclub/finding-unused-files-with-dart-code-metrics-b9aba48ad7ca))
 * Improving Code Quality With Dart Code Metrics ([ru](https://habr.com/ru/company/wrike/blog/552012/) | [en](https://medium.com/wriketechclub/improving-code-quality-with-dart-code-metrics-430a5e3e316d))
 * Writing a custom plugin for the Dart analyzer ([ru](https://habr.com/ru/company/wrike/blog/541672/) | [en](https://medium.com/wriketechclub/creating-a-custom-plugin-for-dart-analyzer-48b76d81a239))
