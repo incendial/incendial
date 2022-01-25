@@ -17,6 +17,12 @@ A few core tools:
 
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
+### 🎤 My recent talks
+
+* Improving Your Code With Dart Code Metrics ([en](https://www.youtube.com/watch?v=k-3Y61qdq-4))
+* Writing a custom plugin for the Dart analyzer ([ru](https://www.youtube.com/watch?v=I37R0BKeuHk))
+
+
 ### 📖 My recent articles
 
 * Dart Code Metrics 4.0 ([ru](https://habr.com/ru/company/wrike/blog/573140/) | [en](https://medium.com/wriketechclub/dart-code-metrics-4-0-commands-monorepo-support-and-new-rules-e7f381692eb5))
