@@ -1,4 +1,4 @@
-[##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  Hello there, I’m Dmitry
+##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  Hello there, I’m Dmitry
 
 I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart) and Flutter.
 
