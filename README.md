@@ -1,4 +1,4 @@
-##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  Hello there, I’m Dmitry
+[##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  Hello there, I’m Dmitry
 
 I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart) and Flutter.
 
@@ -39,3 +39,4 @@ A few core tools:
 ### 📮 How to reach me
 
 <a href="https://twitter.com/_incendial"><img src="https://img.shields.io/badge/-%40__incendial-1CA2F1?style=flat&logo=twitter&logoColor=white"/></a>
+](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
