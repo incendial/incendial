@@ -2,6 +2,8 @@
 
 I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Angular (both TS and Dart), Svelte and Flutter.
 
+Leading Frontend department at [Sidekick](https://www.meetsidekick.com/).
+
 Former Senior Frontend Developer / part-time Architect at [Wrike](https://www.wrike.com/).
 
 ### 🛠 Tech Stack
