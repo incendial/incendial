@@ -4,7 +4,7 @@ I’m a software engineer. Passionate about software development, architecture a
 
 Focused on the static analysis for the Dart and Flutter! 🎯
 
-Former Frontend department Lead at [Sidekick](https://www.meetsidekick.com/).
+Former Frontend department Lead at [Sidekick](https://www.meetsidekick.com/). \
 Former Senior Frontend Developer / part-time Architect at [Wrike](https://www.wrike.com/).
 
 ### 🛠 Tech Stack
