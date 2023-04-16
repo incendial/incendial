@@ -28,6 +28,7 @@ A few core tools:
 
 ### 📖 My recent articles
 
+* Cross-compiling Dart CLI applications with Codemagic ([en](https://blog.codemagic.io/cross-compiling-dart-cli-applications-with-codemagic/))
 * Dart Code Metrics 4.0 ([ru](https://habr.com/ru/company/wrike/blog/573140/) | [en](https://medium.com/wriketechclub/dart-code-metrics-4-0-commands-monorepo-support-and-new-rules-e7f381692eb5))
 * Finding Unused Files With Dart Code Metrics ([en](https://medium.com/wriketechclub/finding-unused-files-with-dart-code-metrics-b9aba48ad7ca))
 * Improving Code Quality With Dart Code Metrics ([ru](https://habr.com/ru/company/wrike/blog/552012/) | [en](https://medium.com/wriketechclub/improving-code-quality-with-dart-code-metrics-430a5e3e316d))
